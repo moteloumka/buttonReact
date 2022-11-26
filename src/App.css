@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.creation--green{
+  background-color: green;
+}
+.creation--red{
+  background-color: red;
+}
